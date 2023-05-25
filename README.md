@@ -814,8 +814,7 @@ We release the 3 finetuned checkpoints we created in the paper
 
 \[Note\] The checkpoints provided in this section is only for initial study purpose, 
 we do not expect the checkpoints to perform well in other tool tasks. 
-Improvement will come in along the way and we also encourage the community 
-to contribute!
+We highly encourage the community to contribute!
 
 
 ## Citation
