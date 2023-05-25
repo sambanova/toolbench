@@ -807,11 +807,15 @@ Actions:
 
 
 ## Checkpoints
-The checkpoints provided in this section is only for initial study purpose, 
+We release the 3 finetuned checkpoints we created in the paper
+- [LLaMA-30b](https://huggingface.co/sambanovasystems/LLaMA-30b-toolbench)
+- [StarCoder](https://huggingface.co/sambanovasystems/starcoder-toolbench)
+- [CodeGen-16b-mono](https://huggingface.co/sambanovasystems/codegen-16B-mono-toolbench)
+
+\[Note\] The checkpoints provided in this section is only for initial study purpose, 
 we do not expect the checkpoints to perform well in other tool tasks. 
 Improvement will come in along the way and we also encourage the community 
 to contribute!
-- Links to Huggingface models are comming soon! 
 
 
 ## Citation
