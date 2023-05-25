@@ -811,7 +811,7 @@ The checkpoints provided in this section is only for initial study purpose,
 we do not expect the checkpoints to perform well in other tool tasks. 
 Improvement will come in along the way and we also encourage the community 
 to contribute!
-- (TODO) Links to Huggingface. 
+- Links to Huggingface models are comming soon! 
 
 
 ## Citation
@@ -825,3 +825,8 @@ We also want to express our gratitude to the great works in the open sourced mod
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 - [CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://arxiv.org/abs/2203.13474)
 - [StarCoder: may the source be with you!](https://arxiv.org/abs/2305.06161)
+
+There are also several other inspiring works about tool manipulation and benchmarking that we want to raise our thanks to
+- [Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354)
+- [API-Bank: A Benchmark for Tool-Augmented LLMs](https://arxiv.org/abs/2304.08244)
+- [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334)
