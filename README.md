@@ -34,7 +34,7 @@ After registration, update your credentials in `credential.sh` and
 source credential.sh
 ```
 
-### Softwares
+### Software
 - [Conda](https://www.anaconda.com/) (anaconda)
 - [Java](https://www.oracle.com/java/technologies/downloads/) >= 11.0.13
 
