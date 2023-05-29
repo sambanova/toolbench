@@ -818,7 +818,16 @@ We highly encourage the community to contribute!
 
 
 ## Citation
-(TODO)
+```
+@misc{xu2023tool,
+      title={On the Tool Manipulation Capability of Open-source Large Language Models}, 
+      author={Qiantong Xu and Fenglu Hong and Bo Li and Changran Hu and Zhengyu Chen and Jian Zhang},
+      year={2023},
+      eprint={2305.16504},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 ### Acknowledgement
 We sincerely appreciate all the helpful discussions from Urmish Thakker, Tian Zhao, Raghu Prabhakar, Kaizhao Liang, Petro Junior Milan, 
