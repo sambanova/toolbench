@@ -6,6 +6,8 @@
 </a>
 
 # ToolBench
+[![Discord](https://img.shields.io/discord/1105549926475247626?label=Discord&logo=discord&logoColor=green&style=flat-square)](https://discord.com/invite/8z2Pe7cpRv)
+
 <img src="./images/toolbench.jpg" title="SambaNova" height="180" />
 Recent studies on software tool manipulation with large language models (LLMs) mostly rely on closed model APIs (e.g. OpenAI), as there is an significant gap of model accuracy between those closed models and all the rest open-source LLMs.
 To study the root cause of the gap and further facilitate the development of open-source LLMs, especially their capabilities on tool manipulation, we create the ToolBench. 
