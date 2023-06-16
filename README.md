@@ -6,7 +6,15 @@
 </a>
 
 # ToolBench
-[![Discord](https://img.shields.io/discord/1105549926475247626?label=Discord&logo=discord&logoColor=green&style=flat-square)](https://discord.gg/JehFG5HXKb)
+
+<p>
+    <a href="https://huggingface.co/spaces/qiantong-xu/toolbench-leaderboard">
+        <img src="https://img.shields.io/badge/leaderboard-0.0.0-yellow"
+            alt="leaderboard"></a>
+    <a href="https://discord.gg/JehFG5HXKb">
+        <img src="https://img.shields.io/discord/1105549926475247626?logo=discord"
+            alt="chat on Discord"></a>
+</p>
 
 <img src="./images/toolbench.jpg" title="SambaNova" height="180" />
 Recent studies on software tool manipulation with large language models (LLMs) mostly rely on closed model APIs (e.g. OpenAI), as there is an significant gap of model accuracy between those closed models and all the rest open-source LLMs.
