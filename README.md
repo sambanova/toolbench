@@ -551,33 +551,11 @@ Here we list of a subset of the API docs as well as the examples of each ToolBen
 
   - API docs
   ```
-  # Go from any page to 'search' page
-  click[back to search]
-
-  # On the current 'item' page, click 'Buy Now' and end the episode
-  click[buy now]# On the current 'item' page, click to view its description
-  click[description]
-
-  # On the current 'item' page, click to view its features
-  click[features]
-
-  # Go to the next page
-  click[next >]
-
-  # On the current 'item' page, select an option button
-  click[{option}]
-
-  # Go to the previous page
-  click[< prev]
-
-  # Go from the current 'results' page to an 'item' page that describes a product
-  click[{product}]
-
-  # On the current 'item' page, click to view its reviews
-  click[reviews]
-
-  # search a text query, and go from 'search' page to 'results' page that lists a set of products returned by a search engine
+  # search a text query, and go from 'search' page to 'results' page that lists a set of products returned by a search engine.
   search[{query}]
+
+  # On the current page, click a button with text 'button_text', which is the lowercased text between any '[button]' and '[button_]'. For a single action, click on only one button.
+  click[button_text]
   ```
   - Examples
   ```
