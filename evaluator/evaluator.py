@@ -19,7 +19,7 @@ from typing import List
 
 
 class BaseEvaluator(metaclass=abc.ABCMeta):
-    """A evaluator that evaluates a action generator's execution accuracy."""
+    """An evaluator that evaluates an action generator's execution accuracy."""
 
     def __init__(self, generator):
         # a list of dictionaries
@@ -39,7 +39,7 @@ class BaseEvaluator(metaclass=abc.ABCMeta):
             max_output_len: the maximum number of tokens to generate
 
         Returns:
-            prompt: the real prompt send to the LLM
+            prompt: the real prompt sent to the LLM
             prediction: the generated action
             error: the error message if the program crashes
         """
@@ -50,7 +50,7 @@ class BaseEvaluator(metaclass=abc.ABCMeta):
 
     @abc.abstractmethod
     def __call__(self, query: str, labels: List[str]):
-        """Generate action based a give query and check the result against the labels"""
+        """Generate action based on a given query and check the result against the labels"""
         pass
 
     @abc.abstractmethod
